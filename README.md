@@ -1,16 +1,4 @@
-# calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Calculator
+This is an Calculator app, developed using flutter, to design the buttons of this app, i have used the concept of Soft UI, also known as
+Neumorphism.
+![image](https://user-images.githubusercontent.com/71991617/172384981-183a832b-1947-4904-b541-9a38df216847.png)
